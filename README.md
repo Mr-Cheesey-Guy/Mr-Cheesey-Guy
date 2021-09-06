@@ -1,4 +1,5 @@
-Hello there! I code in Python 3 most, but I also use HTML, CSS and JavaScript. I can also code using Scratch, which is the first language I learned.
+<h1>Hello there!</h1>
+I code in <b>Python 3</b> most, but I also use HTML, CSS and JavaScript. I can also code using Scratch, which is the first language I learned.<br><br>
 
 I've been coding my own projects for a while, but felt inspired to create a GitHub account and explore what other people have been making, as well as making contributions if possible.
 
